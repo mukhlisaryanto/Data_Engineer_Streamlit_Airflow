@@ -220,3 +220,5 @@ Airflow : Sebagai orchestrator / tools scheduler untuk menjalankan suatu job yan
 FastAPI : Framework yang tujuannya dijadikan API untuk ML Model yang berfungsi sebagai prediksi kredit scoring
 
 ML Model : Machine Learning menggunakan Scikit-learn dan juga RandomizedSearchCV untuk mencari parameter terbaik
+
+Portofolio Saya: https://azharizz.my.canva.site/
